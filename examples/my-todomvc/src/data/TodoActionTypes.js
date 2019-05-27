@@ -1,0 +1,9 @@
+const ActionTypes = {
+  ADD_TODO: 'ADD_TODO',
+  DELETE_TODO: 'DELETE_TODO',
+  TOGGLE_TODO: 'TOGGLE_TODO',
+  UPDATE_TODO: 'UPDATE_TODO',
+  TOGGLE_EDITING: 'TOGGLE_EDITING'
+}
+
+export default ActionTypes;
